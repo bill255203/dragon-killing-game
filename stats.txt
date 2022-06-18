@@ -1,0 +1,2 @@
+money: 91
+character bought 0 1 1 1
